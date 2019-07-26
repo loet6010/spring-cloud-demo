@@ -1,6 +1,6 @@
-package com.spring.cloud.consumer.service.impl;
+package com.spring.cloud.consumer.feign.impl;
 
-import com.spring.cloud.consumer.service.FeignProducerService;
+import com.spring.cloud.consumer.feign.FeignProducerService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;

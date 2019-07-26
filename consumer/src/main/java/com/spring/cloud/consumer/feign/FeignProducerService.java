@@ -1,6 +1,6 @@
-package com.spring.cloud.consumer.service;
+package com.spring.cloud.consumer.feign;
 
-import com.spring.cloud.consumer.service.impl.FeignProducerServiceImpl;
+import com.spring.cloud.consumer.feign.impl.FeignProducerServiceImpl;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
